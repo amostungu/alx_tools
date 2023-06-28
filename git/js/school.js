@@ -1,2 +1,2 @@
-console.log("School")
+console.log("ALX")
 console.log("School")
